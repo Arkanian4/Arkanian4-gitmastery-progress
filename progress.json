@@ -1,0 +1,37 @@
+[
+  {
+    "exercise_name": "grocery-shopping",
+    "started_at": 1769152050.021974,
+    "completed_at": 1769152054.906023,
+    "comments": [
+      "New grocery list items added to shopping-list.txt are not committed.",
+      "Grocery list items removed from shopping-list.txt are not committed."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "log-and-order",
+    "started_at": 1769335930.888753,
+    "completed_at": 1769335932.826794,
+    "comments": [],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "stage-fright",
+    "started_at": 1769148923.42248,
+    "completed_at": 1769148925.53386,
+    "comments": [
+      "Great work! You have successfully checked in all the actors!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "under-control",
+    "started_at": 1769147102.097555,
+    "completed_at": 1769147104.390321,
+    "comments": [
+      "You successfully used git init to initialize this folder as a Git repository!"
+    ],
+    "status": "Completed"
+  }
+]
