@@ -42,5 +42,14 @@
       "That is not the right Github url!"
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "fork-repo",
+    "started_at": 1769349971.914697,
+    "completed_at": 1769349976.696252,
+    "comments": [
+      "Great work creating a fork with Github!"
+    ],
+    "status": "Completed"
   }
 ]
