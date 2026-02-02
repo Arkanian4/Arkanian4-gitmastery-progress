@@ -114,5 +114,14 @@
       "The 'visitor-line' branch should have the line 'I heard someone knocking at the door.' added to story.txt."
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "branch-previous",
+    "started_at": 1770030573.912491,
+    "completed_at": 1770030578.483588,
+    "comments": [
+      "The 'visitor-line' branch should have the line 'I heard someone knocking at the door.' added to story.txt."
+    ],
+    "status": "Incomplete"
   }
 ]
